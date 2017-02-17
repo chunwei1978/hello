@@ -1,13 +1,13 @@
 package com.ambow.hello;
 
 /**
- * Hello world!
+ * 版本控制测试。
+ * 
+ * @author deng.zhao
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
 }
